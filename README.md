@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @amitsaini1912
-- 👀 I’m interested in MERN Stack
-- 🌱 I’m currently learning Java and DSA
-- 💞️ I’m looking for an opportunity
-- 📫 How to reach me Mail:- amitkumarsainig9@gmail.com
-- 😄 Pronouns: Mr. Amit
-- ⚡ Fun fact: Coding is Fun for me!
+🚀 Hey there! I'm @amitsaini1912
+
+👀 Passionate about MERN Stack and always exploring new tech!
+
+🌱 Currently diving deep into Java and sharpening my skills in Data Structures & Algorithms.
+
+💼 Open to exciting opportunities to apply my knowledge and grow!
+
+📧 Reach out to me at amitkumarsainig9@gmail.com - Let's connect!
+
+😄 Pronouns: Mr. Amit
+
+⚡ Fun fact: Coding isn't just a hobby, it's my exhilarating adventure!
 
 <!---
 amitsaini1912/amitsaini1912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
