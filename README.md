@@ -8,7 +8,6 @@
 
 📧 Reach out to me at amitkumarsainig9@gmail.com - Let's connect!
 
-😄 Pronouns: Mr. AMIT
 
 ⚡ Fun fact: Coding isn't just a hobby, it's my exhilarating adventure!
 
