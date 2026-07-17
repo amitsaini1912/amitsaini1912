@@ -1,6 +1,6 @@
 🚀 Hey there! I'm @amitsaini1912
 
-👀 Passionate about MERN Stack and always exploring new tech!
+👀 Passionate about Backend Development and always exploring new tech!
 
 🌱 Currently diving deep into Java and sharpening my skills in Data Structures & Algorithms.
 
