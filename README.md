@@ -1,17 +1,29 @@
-🚀 Hey there! I'm @amitsaini1912
+### Hi, I'm Amit 👋
 
-👀 Passionate about Backend Development and always exploring new tech!
+Final-year CSE student at UIET Panjab University (2027). I build backend systems that move money — and prove
+they're correct with tests, load tests and chaos tests.
 
-🌱 Currently diving deep into Java and sharpening my skills in Data Structures & Algorithms.
+**Looking for:** a 6-month software engineering internship from **January 2027** (backend / fintech) and 2027
+new-grad roles.
 
-💼 Open to exciting opportunities to apply my knowledge and grow!
+### Featured projects
 
-📧 Reach out to me at amitkumarsainig9@gmail.com - Let's connect!
+**[Hospital Payments Platform](https://github.com/amitsaini1912/patient-management-microservices)** — Java 21, Spring Boot, Kafka, PostgreSQL, Redis, gRPC
+- Double-entry ledger enforced by Postgres, idempotent money-moving APIs, PCI-style card vault, ISO 8583-style card network simulator, reconciliation, audit chain
+- 120 concurrent refunds → acquirer called exactly once per step · k6: 8,324 checkouts, 0 errors, p95 93 ms
+- Chaos-tested: Kafka down 60 s → 0 failed payments, 936 outbox events delivered within 5 s of recovery
 
+**[Payment Risk Engine](https://github.com/amitsaini1912/payment-risk-engine)** — Python, FastAPI, Redis, scikit-learn
+- Real-time allow / hold / block inside a 300 ms budget, with reason codes
+- Cost-tuned model: recall 0.81, −86% expected loss vs approving everything (synthetic data)
+- Chargebacks flow back via Kafka as training labels; shadow model + drift monitoring
 
-⚡ Fun fact: Coding isn't just a hobby, it's my exhilarating adventure!
+**813 automated tests** across both · ~92% line coverage on the payment services · CI on GitHub Actions
 
-<!---
-amitsaini1912/amitsaini1912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Stack
+Java · Spring Boot · Kafka · PostgreSQL · Redis · gRPC · Docker · Kubernetes · Python · FastAPI · scikit-learn · MERN
+
+### Also
+600+ DSA problems in Java ([LeetCode](https://leetcode.com/u/amitkumarsainig9/) 1573) · HackerRank SQL (Intermediate)
+
+📫 amitkumarsainig9@gmail.com · [LinkedIn](https://www.linkedin.com/in/amitsaini1912/)
